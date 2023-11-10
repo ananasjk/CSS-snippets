@@ -1,0 +1,27 @@
+.assetsLargeImageUserPopoutV2__01dc1{
+    transition: 330ms ease-in-out;
+}
+.assetsLargeImageUserPopoutV2__01dc1:hover{
+    height: 256px;
+    width: 256px;
+}
+
+.clickable__35918{
+    transition: 330ms ease-in-out;
+}
+
+.clickable__35918:hover{
+    transform: scale(2) translatey(60px) translatex(53px);
+}
+
+.avatarHintInner__3d1c9{
+    display: none;
+}
+
+.userPopoutOverlayBackground_d8afa4{
+    transition: 330ms ease-in-out;
+}
+
+.clickable__35918:hover ~ .userPopoutOverlayBackground_d8afa4{
+    margin-top: 180px;
+}
