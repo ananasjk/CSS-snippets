@@ -11,7 +11,8 @@
 }
 
 .clickable__35918:hover{
-    transform: scale(2) translatey(60px) translatex(53px);
+    transform: scale(2);
+    z-index: 1;
 }
 
 .avatarHintInner__3d1c9{
